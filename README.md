@@ -28,17 +28,6 @@ I am an undergraduate Computer science and Engineering student at Ruytgers Unive
 - Outside tech, 📖 I love to swim, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="ktharakan04@gmail.com">ktharakan04@gmail.com</a>
 
-__Check out my GitHub repository:__
 
-<div>
-  <p>
-    <a href="https://github.com/ktharakan/ExpenseTracker.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
 
 ---------------------------------------------------------------------------------------------------------------------
