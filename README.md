@@ -24,6 +24,7 @@ I am an undergraduate Computer science and Engineering student at Ruytgers Unive
 - 🌱 I’m currently learning ...
   - React js
   - Firebase
+  - TensorFlow
 - 👯 I’m looking forward to collaborate on open source projects.
 - Outside tech, 📖 I love to swim, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="ktharakan04@gmail.com">ktharakan04@gmail.com</a>
